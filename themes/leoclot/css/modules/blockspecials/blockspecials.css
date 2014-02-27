@@ -1,0 +1,50 @@
+/* Block specials */
+#special_block_right p {
+	padding-bottom:0;
+	text-align:right;
+	font-weight:500;
+	margin-top:20px
+}
+.blockspecials .products  {position:relative}
+#special_block_right .products li {
+	padding:15px 0;
+	width: 130px;
+	border:none;
+}
+#special_block_right li .s_title_block, #special_block_right li h5 {
+	padding:0 0 3px 0;
+	font-size:12px;
+	text-align:left;
+}
+#special_block_right .products li a {
+	padding:0;
+	background:none
+}
+#special_block_right li.product_image {
+	padding-right:10px;
+	width:62px;
+}
+
+#special_block_right .products span.price-discount {
+	font-size:14px;
+	text-decoration:line-through
+}
+	#special_block_right .products span.reduction span {
+		background:#CC3366;
+		border-radius: 20px;
+		display: block;
+		font-size:12px;
+		font-weight: normal;
+		height: 41px;
+		line-height: 37px;
+		padding: 0;
+		position: absolute;
+		right: 10px;
+		text-transform: uppercase;
+		top: 10px;
+		width: 41px;
+		color:#fff;
+		text-align:center;
+	}
+#special_block_right .products  img {margin-right:10px}
+.desc_specials {padding:10px 10px 0 0}

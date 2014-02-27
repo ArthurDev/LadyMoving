@@ -1,0 +1,58 @@
+/*brown-light #896B5A*/
+/*brown #4D423B*/
+.tcolor {color:#1aace7}
+a:hover, .lnk a:hover{color:#1aace7;}
+input[type="submit"], input[type="button"], input[type="reset"], .btn, button, a.exclusive, span.exclusive, .button, .button_large, .button_small{
+	background-color:#1aace7;
+}
+/* Header */
+#topbar a:hover {color:#1aace7}
+#searchbox .button {background:url("../img/botton-search.png") no-repeat center center }
+#header_user .links {background:#1aace7}
+/* Navbar */
+.navbar-nav > li > a:before {background-color:#1aace7}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > li:focus > a, .navbar-default .navbar-nav > li:hover > a {color:#1aace7}
+#off-canvas-nav ul li a:hover {color:#1aace7}
+#cavas_menu .navbar-toggle {background:#1aace7!important}
+ /* Slideshow  */
+.leobttslider .slide-info h2, .leobttslider .slide-info .slide-desc {border-left:5px solid #1aace7}
+.slide-info a:hover {color:#1aace7}
+.leobttslider .slide-info .readmore i {background:#1aace7}
+.leobttslider .carousel-indicators li:hover, .leobttslider .carousel-indicators li.active {
+	 border:2px solid #1aace7;
+}
+/* Content */
+#index .leo-showcase .product-container .product-btn .cart .btn {background:#1aace7}
+.leo-wrapper .carousel-control.left {border-right:1px solid #30b5ea}
+.welcome h2 {color:#1aace7}
+.highlighted .title_block span {background:#1aace7}
+.leo-wrapper .carousel-control {background:#1aace7}
+.product-container .btn:hover, .product-container .cart .btn:hover {background:#1aace7}
+#index .leo-showcase .product-meta .name a {color:#1aace7}
+.product-meta .name a:hover {color:#1aace7}
+ul.step li.step_current {background:#1aace7}
+/* Category */
+.cat_desc .lnk_more {color:#1aace7}
+.content_sortPagiBar i.active { color: #1aace7 }
+.view-list .product-container .cart .btn:hover {background:#1aace7}
+.breadcrumb { color: #1aace7 }
+/* sidebar */
+.block .tree li a.selected, .sidebar .block_content ul.bullet li a:hover:before, 
+.block .tree li a.selected, .sidebar .block_content ul.bullet li a.selected:before {color:#1aace7}
+.sidebar .block .title_block {background:#1aace7}
+.block .tree li span.grower:hover + a, .block .tree li a:hover, .block .tree li a.selected {border-left:4px solid #1aace7; color:#1aace7}
+.sidebar .block_content ul.bullet li a:hover:before {color:#1aace7}
+.leobttslider .slide-info a:hover  {color:#1aace7}
+/* Bottom */
+.blog-title:hover .itemTitle {color:#1aace7}
+.testimonial-wrapper .infor-profile span {color:#1aace7}
+.testimonial-wrapper .info-testimonail:before {background:url("../img/bg_text-qoute.png") no-repeat; }
+#cms_sticker .carousel-control:hover i {color:#1aace7}
+.leo-wrapper .control-specials .carousel-control:hover i{color:#1aace7}
+.leo-static li:hover .pv-icon {background-color: #1AACE7;}
+/* Product detail */
+.idTabs a:hover, .idTabs .selected {background:#1AACE7}
+/* Footer */
+#newsletter_block_left input.button_mini {background:#1aace7}
+#footer .copyright a {color:#1aace7}
+#footer .footer_navlink li a:hover {color:#1aace7}

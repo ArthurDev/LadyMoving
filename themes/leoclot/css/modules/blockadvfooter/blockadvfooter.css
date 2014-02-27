@@ -1,0 +1,95 @@
+/* advfooter */
+#footer  a {color:#a1a5ab}
+.footer .container {
+	padding-top:10px
+}
+#footer ul li {list-style:none}
+.footer .container > .row { 
+}
+	#advandfooter {
+		padding: 20px 0; 
+		clear:both
+	}
+	.adv-footer-wrap .blocks-wrap {
+		/*overflow: hidden;*/
+	}
+	/*block 1*/
+	#lofadva-pos-1 .blocks-wrap {
+	}
+	
+	#lofadva-pos-1 .block-wrap {
+		background: #ECECEC;
+		min-height: 320px;
+		padding: 20px 20px 5px;
+	}
+		#lofadva-pos-1 .blocks-wrap  .block:last-child { margin-left: 2.5%}
+		#lofadva-pos-1.widget-items li {
+			margin-bottom: 0;
+		}
+		#lofadva-pos-1 .blocks-wrap  .block:last-child
+		.aboutus p{
+			color: #757575;
+			line-height: 1.5;
+		}
+		.aboutus p a{display: block; margin: 10px 0;}
+
+		.contactus ul{ margin-bottom: -15px;}
+		.contactus ul li{
+			 border-bottom: 1px solid #ccc;
+			list-style: none;
+			padding-bottom: 15px;
+			padding-left: 40px;
+			padding-top: 15px;
+		}
+		.contactus ul li.fax{background-position:0 -46px;}
+		.contactus ul li.phone{background-position: 0 0;padding-top: 0;}
+		.contactus ul li.mail{background-position: 0 -100px;}
+		.contactus ul li.support{background-position: 0 -156px;border-bottom: none;}
+
+		.aboutus a,
+		.contactus a{color: #1b9fe2;text-decoration: none;}
+		
+	/* block 2*/
+		#lofadva-pos-2 .blocks-wrap {
+		}
+		#lofadva-pos-2 .block-wrap {
+		}
+		#lofadva-pos-2 .block:first-child  .block-wrap{
+			border-left-color: transparent;
+			box-shadow: none;
+		}
+		.widget-module #newsletter_block_left {display:inline-block; margin-bottom:0}
+		.box-services  {padding:10px 10px 0 0; text-align:justify}
+		.box-services img  {
+			margin: -10px 0 12px 0;
+		}
+		.social_footer p {font-style:italic}
+		#footer .link_copyright a.item-icon-list {color:#fff}
+		#advandfooter .block:last-child .widget-items li {padding-right:0}
+		.block-wrap ul.link_copyright li a:hover {background:#4d88c2; border:0; border-radius: 50% 0;}
+		.link_copyright li {margin-top:10px}
+		.link_copyright li:first-child  {margin-left:0}
+		.link_copyright li {
+			float: left;
+			margin-left: 10px;
+			line-height:25px;
+			padding-right:0;
+		}
+		.title_social {color:#DBDCDC; margin-top:15px}
+		.block-wrap  .link_copyright a.item-icon-list {
+			background-color: #5c5c5c;
+			color: #FFFFFF;
+			display: block;
+			font-size: 18px;
+			padding: 5px 0;
+			text-align: center;
+			width: 35px;
+			transition:all 0.3s ease-in-out 0s;
+		}
+		.link_copyright a.item-icon-list span {
+			display: block;
+			height: 0;
+			text-indent: -9999px;
+			width: 0;
+		}
+		

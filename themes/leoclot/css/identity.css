@@ -1,0 +1,11 @@
+
+#identity .std #security_informations {
+	font-size:10px;
+	text-align: center;
+	color: #ADADAD;
+	margin: 40px 0px 0px;
+}
+
+#submitId {
+	margin: 15px 0px 0px;
+}

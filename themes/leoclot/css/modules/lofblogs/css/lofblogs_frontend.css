@@ -1,0 +1,154 @@
+
+/* ================= COMMENT FORM =============== */
+.lofcontent_line {
+    float: left;
+    margin: 3px 0;
+    width: 100%;
+}
+.lofcontent_line label {
+    float: left;
+    font-weight: bold;
+    margin-right: 5px;
+    text-align: right;
+    width: 100px;
+}
+#lipsum{ 
+}
+.article_rate_buttons {
+    float: left;
+    font-size: 0;
+    height: 18px;
+    line-height: 18px;
+    width: 20px;
+}
+.article_header { clear: both; margin: 10px 0}
+.article_infor {}
+.lofcontent_rating_container { 
+    overflow: hidden;
+}
+.lofcontent_rating_container > div {
+    float: left;
+    height: 25px;
+    line-height: 25px;
+    margin-right: 10px;
+}
+#rating_status {
+    width: 235px;
+}
+#article_rating_total {
+    margin-left: 5px;
+    font-style: italic;
+    margin-right: 3px;
+}
+#aticle_rating_note {
+    display: none;
+    float: right;
+    font-style: italic;
+    height: 30px;
+    margin-left: 5px;
+}
+#loading_img {
+    display: none;
+    width: 30px;
+}
+
+img[alt="lof-emoticons"], img[alt="lofsmiles"] {
+    width: auto!important;
+    height: auto!important;
+}
+
+/* rating star */
+.lofcontent_article_rate1 {
+    background-position: 0 -21px !important;
+}
+.lofcontent_article_rate2 {
+    background-position: 0 -44px !important;
+}
+.lofcontent_article_rate3 {
+    background-position: 0 -66px !important;
+}
+.lofcontent_article_rate4 {
+    background-position: 0 -89px !important;
+}
+.lofcontent_article_rate5 {
+    background-position: 0 -112px !important;
+}
+#article_rating, .rating_star {
+    background: url("../images/admin/star_rating.png") no-repeat scroll 0 0 transparent;
+    height: 20px;
+    margin: 0;
+    width: 100px;
+    float: left;
+}
+
+/* Articles listing basic style */
+.listing_rating {
+    float: right;
+}
+.rating_star {
+    margin: 0 5px 0 0;
+}
+.listing_rating > div {
+    float: left;
+    height: 20px;
+    line-height: 22px;
+}
+
+a.lofblogs-rss {
+    float: left;
+    margin-top: 20px;
+    text-align: right;
+    width: 100%;
+}
+a.lofblogs-rss img {
+    width: 40px;
+}
+
+/* Article details */
+
+.img_align_left { 
+    float: left;
+    margin-right: 10px;max-width: 100%;
+}
+
+.img_align_right {
+    float: right;max-width: 100%;margin-left: 10px;
+}
+.img_align_center {
+    width: 100%;
+    text-align: center;
+}
+.lofcontent_content_main  .primay_img {float:none}
+.primay_img img {
+    margin: 5px;
+	width:99%
+}
+.defaultSkin span.mceIcon, .defaultSkin img.mceIcon {
+    width: 18px !important;
+    height: 18px !important;
+}
+#cm_content_toolbar1 {
+    width: 300px !important;
+    height: auto!important;
+}
+/* comment paginator */
+#lofcontent_comments_paginator {
+    float: left;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+/* Custom html blocks */
+
+.lofblogsCustomBlocksContainer {
+    float: left;
+}
+
+.lofblogsCustomBlocksContainer .lofblogs_custom_block {
+    float: left;
+}
+.lofblogs_custom_block > h4 {
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}

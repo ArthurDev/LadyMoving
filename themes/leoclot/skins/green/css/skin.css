@@ -1,0 +1,56 @@
+/*brown-light #896B5A*/
+/*brown #4D423B*/
+.tcolor {color:#a1ca6c}
+a:hover, .lnk a:hover{color:#a1ca6c;}
+input[type="submit"], input[type="button"], input[type="reset"], .btn, button, a.exclusive, span.exclusive, .button, .button_large, .button_small{
+	background-color:#a1ca6c;
+}
+/* Header */
+#topbar a:hover {color:#a1ca6c}
+#searchbox .button {background:url("../img/botton-search.png") no-repeat center center }
+#header_user .links {background:#a1ca6c}
+/* Navbar */
+.navbar-nav > li > a:before {background-color:#a1ca6c}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > li:focus > a, .navbar-default .navbar-nav > li:hover > a {color:#a1ca6c}
+#off-canvas-nav ul li a:hover {color:#a1ca6c}
+#cavas_menu .navbar-toggle {background:#a1ca6c!important}
+ /* Slideshow  */
+.leobttslider .slide-info h2, .leobttslider .slide-info .slide-desc {border-left:5px solid #a1ca6c}
+.slide-info a:hover {color:#a1ca6c}
+.leobttslider .slide-info .readmore i {background:#a1ca6c}
+.leobttslider .carousel-indicators li:hover, .leobttslider .carousel-indicators li.active { border:2px solid #a1ca6c }
+/* Content */
+#index .leo-showcase .product-container .product-btn .cart .btn {background:#a1ca6c}
+.leo-wrapper .carousel-control.left {border-right:1px solid #a8d371}
+.welcome h2 {color:#a1ca6c}
+.highlighted .title_block span {background:#a1ca6c}
+.leo-wrapper .carousel-control {background:#a1ca6c}
+.product-container .btn:hover, .product-container .cart .btn:hover {background:#a1ca6c}
+#index .leo-showcase .product-meta .name a {color:#a1ca6c}
+.product-meta .name a:hover {color:#a1ca6c}
+ul.step li.step_current {background:#a1ca6c}
+/* Category */
+.cat_desc .lnk_more {color:#a1ca6c}
+.content_sortPagiBar i.active { color: #a1ca6c}
+.view-list .product-container .cart .btn:hover {background:#a1ca6c}
+.breadcrumb { color: #a1ca6c }
+/* sidebar */
+.block .tree li a.selected, .sidebar .block_content ul.bullet li a:hover:before, 
+.block .tree li a.selected, .sidebar .block_content ul.bullet li a.selected:before {color:#a1ca6c}
+.sidebar .block .title_block {background:#a1ca6c}
+.block .tree li span.grower:hover + a, .block .tree li a:hover, .block .tree li a.selected {border-left:4px solid #a1ca6c; color:#a1ca6c}
+.sidebar .block_content ul.bullet li a:hover:before {color:#a1ca6c}
+	.leobttslider .slide-info a:hover  {color:#a1ca6c}
+/* Bottom */
+.blog-title:hover .itemTitle {color:#a1ca6c}
+.testimonial-wrapper .infor-profile span {color:#a1ca6c}
+.testimonial-wrapper .info-testimonail:before {background:url("../img/bg_text-qoute.png") no-repeat; }
+#cms_sticker .carousel-control:hover i {color:#a1ca6c}
+.leo-wrapper .control-specials .carousel-control:hover i{color:#a1ca6c}
+.leo-static li:hover .pv-icon {background-color: #a1ca6c;}
+/* Product detail */
+.idTabs a:hover, .idTabs .selected {background:#a1ca6c}
+/* Footer */
+#newsletter_block_left input.button_mini {background:#a1ca6c}
+#footer .copyright a {color:#a1ca6c}
+#footer .footer_navlink li a:hover {color:#a1ca6c}

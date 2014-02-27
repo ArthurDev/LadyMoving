@@ -1,0 +1,30 @@
+/* leoblogsarticle  */
+#leoblogsarticletab{}
+.item_descrition {
+    color: #666;
+    display: block;
+	padding:5px 10px 0 0;
+}
+.item-container{margin-bottom:20px; background:#fff; padding:0}
+.blog-title {
+		display: inline-block;
+		font-size: 15px;
+		font-weight: 400;
+		color:#3d3d3d;
+		overflow:hidden;
+		height:20px;
+	}
+.blog-descrition {padding-top:4px}
+	.blog-title:hover .itemTitle{color:#1cae91}
+.blog-image{position:relative; overflow:hidden}
+	.blog-image {float:left}
+	.blog-image .item_thumb{margin-right:10px}
+.blog-datemore {
+  margin-top:5px
+}
+.blog-date {
+	font-size:11px;
+	font-style:italic;
+}
+	.blog-viewmore a{color:#f96644; font-size:12px; font-style:italic}
+	.blog-viewmore a:hover{color:#000}

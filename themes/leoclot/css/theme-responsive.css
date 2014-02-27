@@ -1,0 +1,130 @@
+/*******************************************
+			FIX RESPONSIVE
+******************************************/
+
+@media (min-width: 1200px) {
+	
+}
+@media (max-width: 1200px) and (min-width: 992px) {
+	#leo-top-menu > .megamenu {padding-left:20px}
+}
+@media (min-width: 1000px) {
+	.leobttslider .slide-info {top:28%}
+	#slideshow  .carousel-indicators  img {width:150px}
+}
+@media (max-width: 992px) {
+	.header-wrap {padding-right:0}
+	#cavas_menu .navbar-toggle {
+		display: block;
+		float:left;
+	}
+	#topnavigation {margin-left:0}
+	#header_logo {padding-top:10px}
+	#header #header_user {top:50px}
+	#topnavigation {position:absolute; top:0}
+	.navbar-nav > li > a:before {display:none}
+	.top_footer {
+		background:#444D55;
+		height: 1px;
+		position: absolute;
+		top: 161px;
+		width: 100%;
+	}
+	#footer {background-image:none}
+	.header-wrap .logo { float:none!important; text-align:center; padding-right:40px}
+	#lofadva-pos-1 .block,
+	#lofadva-pos-2 .block { width: 50%!important;}
+	#lofadva-pos-2 .block:nth-child(2n+1) .block-wrap {
+		border-left: 0;
+		box-shadow: none;
+	}
+	#off-canvas-nav {display: block;}
+	.navbar-collapse.collapse{display: none!important;}
+}
+
+@media (max-width: 800px) { 
+	.product-container .image{text-align: center;}
+	#leo-mainnav .navbar-default .navbar-nav > li > a{padding-left:12px;padding-right:12px;font-size: 12px;}
+}
+@media (max-width: 767px) {
+	.top_footer  {display:none}
+	#cart_block #cart_block_list dt a {max-width:100%}
+	#off-canvas-nav {display: block;}
+	.product-container .image{text-align: center;}
+	.top-wrap .dropdown-menu{text-align:left;}
+	.blockleohighlightcarousel,
+	.highlight-carousel .carousel {background: none;}
+	#header_logo img {margin: auto;}
+	
+	.form-horizontal .form-group {margin-left: -5px; margin-right: -5px;}
+	/** block advfooter **/
+		#advandfooter {
+			width: 100%;
+		}
+		#lofadva-pos-1 .blocks-wrap .block:last-child {
+			display: none;
+		}
+		#lofadva-pos-1 .block,
+		#lofadva-pos-2 .block { width: 50%!important;}
+		#lofadva-pos-2 .block:nth-child(2n+1) .block-wrap {
+			border-left: 0;
+			box-shadow: none;
+		}
+}
+@media (max-width: 600px) {
+		.cirkuitSkin .mceToolbar {height:auto!important}
+		.cirkuitSkin .mceButton {padding:0}
+		.cirkuitSkin td {float:left}
+		.cirkuitSkin .mceFirst {background:#DFDFDF}
+		.cirkuitSkin table.mceLayout tr.mceFirst td {padding:10px 0}
+		.cirkuitSkin table.mceLayout tr.mceLast {width:100%; background:#DFDFDF}
+		.cirkuitSkin table.mceLayout tr.mceLast td {background:transparent!important}
+		#cm_content_toolbar1 {width:100%}
+		ul.step li.leocol-sm-5 {width: 100%;clear: both;}
+		thead {display: none;}
+		table td {display: block!important; width: auto!important; text-align: center!important; border-right:0;}
+			.cart_quantity .cart_quantity_input,
+			.cart_quantity .cart_quantity_button {float: none;margin-top: 0;}
+			#customer_cart_total td.price {border-left: 0;}
+} 
+@media (max-width: 480px) {
+	.product-block  .ajax_block_product {width:100%; float:left;}
+	/** blockadvfooter **/
+	#lofadva-pos-1 .block,
+	#lofadva-pos-2 .block { width: 96%!important;margin: 0 2%!important;}
+	#lofadva-pos-2 .block .block-wrap {
+		border-left: 0;
+		box-shadow: none;
+	}
+	.notification{width:300px; margin-right: -150px;}
+	
+} 
+@media (max-width: 500px) {
+	.list-inline > li {padding-right:0}
+	#topbar .container {padding-bottom:40px}
+	#currencies_block_top, #languages_block_top {position:absolute}
+	#languages_block_top {right:0; top:40px}
+	#currencies_block_top {right:60px; top:40px}
+	#topnavigation {top:-55px}
+	.header-wrap .logo {padding-right:0;}
+	#header #header-main {min-height:100px}
+	#header_logo {padding-top:10px;}
+	#header #header_user {
+		width:90%;
+		text-align:center;
+		left:5%;
+		top: 140px;
+	}
+	#header_user .links {display:inline; padding:5px 10px;}
+	#header #cart_block {width:100%; right:0;top:190px}
+	#search_block_top {margin-right:0}
+	.leobttslider .carousel-indicators {padding-left:40%}
+	#slideshow .carousel-control.left {left:20px}
+	#slideshow .carousel-control.right {right:20px}
+}
+@media (max-width: 325px) {
+	.lof_item_desc p {padding-top:0}
+	.lof_description {display:none}
+	#cm_content_toolbargroup, #cm_content_ifr  {width:300px!important}
+	#page  {overflow:hidden}
+}

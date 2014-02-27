@@ -1,0 +1,20 @@
+/* block top user information */
+#header_user {padding:0}
+#header_user .links {background:#c42154; border-radius:3px; padding:0 10px}
+#header_user .links li a {
+	color:#fff;
+}
+#header_user_info li a:hover {
+	color:#fff;
+}
+#header_user .links i {
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+}
+#header_user .list-inline > li {padding:0}
+#header_user_info li a i {margin-right:5px;}
+#header_user .links a {font-size:12px}
+#header_nav {
+}
+#header  #header_user {color:#fff; position:absolute; top:62px; right:10px; z-index:999; line-height:30px}

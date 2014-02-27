@@ -1,0 +1,18 @@
+#featured-products_block_center li {
+	margin-right:10px;
+	padding:10px 0;
+	width:126px;
+	height:240px
+}
+#featured-products_block_center li.last_item_of_line  {margin-right:0;}
+#featured-products_block_center .product_image {
+	display:block;
+	position:relative;
+	overflow:hidden
+}
+#featured-products_block_center .product_desc {max-height:45px;}
+#featured-products_block_center .product_desc,
+#featured-products_block_center .product_desc a {
+	color:#666
+}
+

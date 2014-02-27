@@ -1,0 +1,115 @@
+/* MODULE LEO CMS STCKER ******************/
+#cms_sticker{position:relative}
+	#cms_sticker p{
+		padding-bottom:0;
+	}
+	.info-testimonail p {font-size:13px; font-style:italic}
+	.leo-mod-title{
+		color:#cb565a;
+		text-transform:uppercase;
+		font-weight:500;
+		font-size:13px;
+		margin-bottom: 15px;
+	}
+	.colorbox-t {font-size:13px}
+	.detail_sticker{
+		position:relative;
+	}
+		#cms_sticker .img_sticker{
+			background: url("images/bg-imgcusreview.png") no-repeat scroll 20px top transparent;
+			height: 89px;
+			padding-right: 3px;
+			position: absolute;
+			right: 0;
+			text-align: right;
+			top: -8px;
+			width: 98px;
+		}
+		#cms_sticker .img_sticker img{padding:6px 0 0}
+		#cms_sticker .title_sticker {
+			color: #CB565A;
+			font-size: 14px;
+			margin:0;
+		}
+		.text_sticker{
+			font-size:13px;
+			margin:30px 0 0;
+			position:relative;	
+			padding:0 0 0 25px;
+		}
+			.text_sticker:before{
+				background: url("images/open-quote.png") no-repeat scroll left top transparent;
+				content: "";
+				height: 16px;
+				left: 0;
+				position: absolute;
+				width: 20px;
+			}
+			
+		.leocmssticker_common_cms {
+		    position: relative;
+		    font-size: 12px;
+			padding:5px 0 !important;
+			border:none;
+		}
+		.leocmssticker_common_cms .slides_box{
+		    padding: 0px;
+		    margin: 0px;
+		    overflow: hidden;
+		    position: absolute;
+		}
+		#cms_sticker .carousel-control:hover i{
+			color: #1cae91;
+		}
+.testimonial-wrapper {
+    margin-bottom: 20px;
+}
+.testimonial-wrapper .testimonial {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 5px;
+    padding: 20px 30px 20px 60px;
+}
+.testimonial-wrapper  .info-testimonail:before {
+    background: url('images/bg_text-qoute.png') no-repeat ;
+    content: "";
+    display: block;
+    height: 20px;
+    left: 20px;
+    position: absolute;
+    top: 20px;
+    width: 26px;
+}
+.testimonial-item {
+    position: relative;
+}
+.testimonial:before {
+    border-left: 17px solid transparent ;
+    border-right: 0 solid transparent;
+    border-top: 23px solid #FFFFFF;
+    bottom: -23px;
+    content: "";
+    display: inline-block;
+    left: 100px;
+    position: absolute;
+}
+.testimonial:before {
+    border-left: 17px solid transparent;
+    border-right: 0 solid transparent;
+    border-top: 23px solid #FFFFFF;
+    bottom: -23px;
+    content: "";
+    display: inline-block;
+    left: 100px;
+    position: absolute;
+}
+.t-avatar {
+    margin-left: 120px;
+    margin-top: 15px;
+}
+.testimonial-wrapper .infor-profile span {
+    color: #1cae91;
+}
+.testimonial-wrapper  .profile {
+    margin-left: 10px;
+    margin-top: 20px;
+}
